@@ -1,3 +1,8 @@
-# Template de páginas de aplicativos criados pela organização TecEDU FURB.
+# FES - Simulador do Sistema Solar com Realidade Aumentada
 
-Consiste num modelo padrão para a construção do site do aplicativo, sendo necessário apenas substituir ou adicionar os textos, imagens e links do respectivo app.
+Link original do TCC (Evandro): <https://bitbucket.org/evandroschmitz/tccevandromschmitz/src/master/>  
+Link BitBucket (Dalton) : <https://bitbucket.org/gcgfurb/2017-1_evandromschmitz/src/master/>  
+
+Importei o GitHub do BitBucket (Dalton <https://bitbucket.org/gcgfurb/2017-1_evandromschmitz>) para o GitHub (tcc_EvandroMatheusSchmitz).  
+
+Como usei o template para criar GitPages não consegui importar para GitHub  
